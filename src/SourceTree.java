@@ -8,11 +8,15 @@ public class SourceTree {
 		int f = 0;
 		int ab = 0;
 		int e = 0;
+		int z = 0;
 		
 		c= a+b;
 		d = b-a;
 		f = a*b;
 		e = b/a;
+		
+		z = f-d;
+		
 		
 		System.out.println(a);
 		System.out.println(b);
@@ -20,5 +24,7 @@ public class SourceTree {
 		System.out.println(d);
 		System.out.println(f);
 		System.out.println(e);
+		System.out.println(z);
+		System.out.println("merge를 해보자");
 	}
 }
