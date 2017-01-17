@@ -6,9 +6,11 @@ public class SourceTree {
 		int c = 0;
 		int d = 0;
 		int f = 0;
+		int e = 0;
 		c= a+b;
 		d = b-a;
 		f = a*b;
+
 		
 		System.out.println(a);
 		System.out.println(b);
