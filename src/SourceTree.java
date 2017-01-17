@@ -4,10 +4,13 @@ public class SourceTree {
 		int a = 100;
 		int b = 200;
 		int c = 0;
+		int d = 0;
 		c= a+b;
+		d = b-a;
 		
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
+		System.out.println(d);
 	}
 }
