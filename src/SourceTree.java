@@ -6,15 +6,10 @@ public class SourceTree {
 		int c = 0;
 		int d = 0;
 		int f = 0;
-<<<<<<< HEAD
 		int ab = 0;
-=======
-		int e = 0;
->>>>>>> f429d31672c10d769a99f88887108804979e59eb
 		c= a+b;
 		d = b-a;
 		f = a*b;
-
 		
 		System.out.println(a);
 		System.out.println(b);
