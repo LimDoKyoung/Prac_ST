@@ -22,5 +22,6 @@ public class SourceTree {
 		System.out.println(d);
 		System.out.println(f);
 		System.out.println(z);
+		System.out.println("merge를 해보자");
 	}
 }
