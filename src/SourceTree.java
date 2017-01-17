@@ -7,9 +7,12 @@ public class SourceTree {
 		int d = 0;
 		int f = 0;
 		int ab = 0;
+		int e = 0;
+		
 		c= a+b;
 		d = b-a;
 		f = a*b;
+		e = b/a;
 		
 		System.out.println(a);
 		System.out.println(b);
