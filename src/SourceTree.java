@@ -3,8 +3,11 @@ public class SourceTree {
 	public static void main(String[] ar){
 		int a = 100;
 		int b = 200;
+		int c = 0;
+		c= a+b;
 		
 		System.out.println(a);
 		System.out.println(b);
+		System.out.println(c);
 	}
 }
